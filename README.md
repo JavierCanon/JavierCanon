@@ -1,9 +1,6 @@
+![JavierCanon](https://media-exp1.licdn.com/dms/image/C4E16AQFyRDb5xqOmPw/profile-displaybackgroundimage-shrink_350_1400/0?e=1600300800&v=beta&t=a5whc2Q23X4ddJme27ZmsWMzjx7Rt8CXJNniu8TD0Kk)
+
 ### Hi there 👋
-
-<!--
-**JavierCanon/JavierCanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+---
+Made with ❤️ by **[Javier Cañon](https://javiercanon.com)**.
