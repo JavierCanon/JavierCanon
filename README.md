@@ -15,7 +15,13 @@
   
 ![JavierCanon](Javier-Canon-Top-Banner-1500x500.jpg)
 
-### Hi there 👋, I'm a .NET Software Architect.
+### Hi there 👋,
+<p align="center">
+  <samp>I'm <b>Javier Cañon (Acehart)</b> - a .NET Developer, Tech Enthusiast, Software Architect and spiritual guy from Colombia, South America. I mostly deal with web development with HTML5/CSS/Javascript, ASP.NET and OpenAPI, software development stack in these days. I have 15+ years of development experience in architecting, designing,  development and implementing of web and desktop applications, using .NET and Web technologies.
+  </samp>
+  <br/>
+</p>
+
 
 - 🔭 [Blog](https://javiercanon.com/)
 - 🌱 I’m currently learning: **Marketing Automatization, Artificial Intelligence systems, Machine Learning, Big Data Analysis and Social Customer Relationship Management Systems SCRM...
