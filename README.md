@@ -1,4 +1,4 @@
-<p align="center" align='right'>
+<p>
   <a target="_blank" href="https://javiercanon.com">
     <img src="https://img.shields.io/badge/Website-javiercanon.com-informational?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -16,12 +16,13 @@
 ![JavierCanon](Javier-Canon-Top-Banner-1500x500.jpg)
 
 ### Hi there 👋,
-<p align="center">
+<p align="justify">
   <samp>I'm <b>Javier Cañon (Acehart)</b> - a .NET Developer, Tech Enthusiast, Software Architect and spiritual guy from Colombia, South America. I mostly deal with web development with HTML5/CSS/Javascript, ASP.NET and OpenAPI, software development stack in these days. I have 15+ years of development experience in architecting, designing,  development and implementing of web and desktop applications, using .NET and Web technologies.
   </samp>
   <br/>
 </p>
 
+![Space Invaders Machine](original-space-invaders-game-machine.gif)
 
 - 🔭 [Blog](https://javiercanon.com/)
 - 🌱 I’m currently learning: **Marketing Automatization, Artificial Intelligence systems, Machine Learning, Big Data Analysis and Social Customer Relationship Management Systems SCRM...
@@ -73,9 +74,7 @@
 ### ⚡ Hobbies
 
   ---
-
 <a href="https://steamcommunity.com/id/acehart" target="_blank">🖥💻 Strategy Games</a> | 👨🏻‍🍳 Cooking | 🚶🏻‍♂️ Walking
-
 
 ### 📈 Github Stats
 
