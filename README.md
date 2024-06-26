@@ -8,9 +8,6 @@
   <a target="_blank" href="mailto:javier@javiercanon.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
   </a>
-  <a target="_blank" rel="nofollow" href="https://github.com/JavierCanon">
-    <img align="right" src="https://gpvc.arturio.dev/JavierCanon?style=for-the-badge" alt="https://github.com/JavierCanon" />
-  <a/>
 </p>
   
 ![JavierCanon](Javier-Canon-Top-Banner-1500x500.jpg)
